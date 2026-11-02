@@ -1,0 +1,1 @@
+# magimir-license
